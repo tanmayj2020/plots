@@ -1,0 +1,15 @@
+Parameters:
+settings = {
+    "layers":Varied,
+    "kernel_w":17,
+    "kernel_h":17,
+    "memory_size":1024,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":2,
+    "server_cores":4,
+    "bandwidth":Varied
+}
+
+Number of Layers Varied between 10 and 1s00 
+Bandwidth is Varied 0.5,1,100

@@ -1,0 +1,14 @@
+{
+    "layers":50,
+    "kernel_w":15,
+    "kernel_h":15,
+    "memory_size":Varied,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":Varied,
+    "server_cores":4,
+    "bandwidth":1000
+}
+
+memory_size = 8,16,32
+edge_cores = [1,9,1]

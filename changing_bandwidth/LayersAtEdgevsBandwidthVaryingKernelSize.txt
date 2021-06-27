@@ -1,0 +1,15 @@
+{
+    "layers":50,
+    "kernel_w":Varied,
+    "kernel_h":Varied,
+    "memory_size":1024,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":2,
+    "server_cores":4,
+    "bandwidth":Varied
+}
+
+
+Bandwidth Varied - 10 to 100 
+Kernel Vaired - 3,5,10

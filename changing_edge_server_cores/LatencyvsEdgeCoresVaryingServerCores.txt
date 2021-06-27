@@ -1,0 +1,13 @@
+{
+    "layers":50,
+    "kernel_w":15,
+    "kernel_h":15,
+    "memory_size":1024,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":Varied,
+    "server_cores":4,
+    "bandwidth":1000
+}
+Edge Cores = 1,9,1
+Server Cores - 4,8,16

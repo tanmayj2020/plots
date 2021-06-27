@@ -1,0 +1,14 @@
+{
+    "layers":50,
+    "kernel_w":Varied,
+    "kernel_h":Varied,
+    "memory_size":Varied,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":2,
+    "server_cores":4,
+    "bandwidth":1000
+}
+memory = [8,16,32,64,128,256,512,1024,2048,4096]
+Kernel_size =[3,5,10]
+

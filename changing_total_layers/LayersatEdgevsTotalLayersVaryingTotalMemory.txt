@@ -1,0 +1,16 @@
+Parameters:
+settings = {
+    "layers":Varied,
+    "kernel_w":17,
+    "kernel_h":17,
+    "memory_size":Varied,
+    "cpu_size":1500,
+    "server_cpu":2800,
+    "edge_cores":2,
+    "server_cores":4,
+    "bandwidth":1000
+}
+
+Number of Layers Varied between 10 and 100 
+Memory is varied 16 , 64 , 128
+
